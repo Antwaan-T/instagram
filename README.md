@@ -1,6 +1,6 @@
-# Project 4 - *Insta*
+# Project 4 - *Instagram*
 
-**Insta** is a photo sharing app using Parse as its backend.
+**Instagram** is a photo sharing app using Parse as its backend.
 
 Time spent: **24** hours spent in total
 
